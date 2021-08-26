@@ -11,8 +11,8 @@ Die Wahlprogramme der zur Zeit im Bundestag vertretenen Parteien wurden aus dem 
 
 `<p>` Absätze
 
+Die Quellenangaben finden sich in der Datei in den `<text>` Tags.
+
 Die Datei kann in der vorliegenden Form in korpuslinguistische Tools wie SketchEngine importiert werden.
 
-Please note: Ich halte keine Rechte an den Texten.
-
-Wenn Sie die Datei für Auswertungen nutzen, freue ich mich über Erwähnung bei der Präsentation der Ergebnisse. Sollten Ihnen Fehler auffallen, bitte ich um Nachricht an: simon.meier-vieracker@tu-dresden.de
+Please note: Ich halte keine Rechte an den Texten. Wenn Sie die Datei für Auswertungen nutzen, freue ich mich aber über Erwähnung bei der Präsentation der Ergebnisse. Sollten Ihnen Fehler auffallen, bitte ich um Nachricht an: simon.meier-vieracker@tu-dresden.de

@@ -1,0 +1,29 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT corpus (text)+>
+<!ATTLIST corpus
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT text (h1?,(h2|h3|p)+)>
+<!ATTLIST text
+  xmlns CDATA #FIXED ''
+  election NMTOKEN #REQUIRED
+  party NMTOKEN #REQUIRED
+  source CDATA #REQUIRED
+  year CDATA #REQUIRED>
+
+<!ELEMENT h1 (#PCDATA)>
+<!ATTLIST h1
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT h2 (#PCDATA)>
+<!ATTLIST h2
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT h3 (#PCDATA)>
+<!ATTLIST h3
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT p (#PCDATA)>
+<!ATTLIST p
+  xmlns CDATA #FIXED ''>

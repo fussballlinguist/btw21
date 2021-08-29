@@ -1,7 +1,7 @@
 # btw21
 Wahlprogramme zur Bundestagswahl 2021 im XML Format
 
-Die Wahlprogramme der zur Zeit (19. Legislaturperiode) im Bundestag vertretenen Parteien wurden aus dem verfügbaren PDF-Format zunächst in txt umgewandelt und um Kopfzeilen, Seitenzahlen sowie um Marginalia bereinigt. Auch Inhaltsverzeichnisse und Register wurden entfernt. Bei dem Programm der Linken wurde die bereits sauber ausgezeichnete epub-Datei verwendet. Anschließend wurden die (Zwischen-)Überschriften mit XML-Tags ausgezeichnet nach folgendem Schema:
+Die Wahlprogramme der zur Zeit (19. Legislaturperiode) im Bundestag vertretenen Parteien wurden aus dem verfügbaren PDF-Format zunächst in txt umgewandelt und um Kopfzeilen, Seitenzahlen sowie um Marginalia bereinigt. Auch Inhaltsverzeichnisse und Register wurden entfernt. Bei dem Programm der Linken wurde die bereits sauber ausgezeichnete epub-Datei verwendet. Duie Anführungszeichen wurden normalisiert. Anschließend wurden die (Zwischen-)Überschriften mit XML-Tags ausgezeichnet nach folgendem Schema:
 
 `<h1>` Titel des Programms
 
